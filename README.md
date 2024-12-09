@@ -1,3 +1,5 @@
+
+
 # Roslynator <img align="left" width="48px" height="48px" src="images/roslynator-logo-small.png" />
 
 Roslynator is a set of code analysis tools for C#, powered by [Roslyn](https://github.com/dotnet/roslyn).
